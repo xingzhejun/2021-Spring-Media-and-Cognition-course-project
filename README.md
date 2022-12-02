@@ -1,9 +1,7 @@
-Course pojects EE, THU, 2020 summer
+Course pojects EE, THU, 2021 spring
 
-Course: Advanced Matlab Programming and Its Application
+Course: Media and Cognition
 
-Project1: Voice Processing
+Project: Image Classification Based on Deep Learning
 
-Project2: Image processing
-
-Language: Matlab
+Language: Python
